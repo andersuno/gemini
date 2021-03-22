@@ -11,8 +11,9 @@ $$  __$$ |$$ |  $$ |$$ |  $$ |$$   ____|$$ |       \____$$\ $$ |  $$ |$$ |  $$ |
 ```
 
 # Links
+=> http://git.andersuno.nu My git repos
 => https://github.com/andersuno My Github
-=> https://lbry.tv/@Parklivspodden:7 Parklivspodden on LBRY, Swedish podcast
+=> https://odysee.com/@Parklivspodden:7 Parklivspodden on Odysee utilizing LBRY-protocol, Swedish podcast
 
 # Support
 => gemini://andersuno.nu/refferal.gmi Refferal links
