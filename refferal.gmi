@@ -4,5 +4,9 @@
 => https://platinum.crypto.com/r/wuwdu28495
 When asked, enter referral code: wuwdu28495
 
-## LBRY
-=> https://lbry.tv/$/invite/@Parklivspodden:7
+## Linode
+VPS and other cloud services, this page is hosted on Linode for $5/month
+=> https://www.linode.com/?r=0a6848992ce7e855b1d6ba205ffe3d9e8d9d2c1e
+
+## Odysee on LBRY protocol
+=> https://odysse.com/$/invite/@Parklivspodden:7
